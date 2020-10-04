@@ -8,6 +8,7 @@ class Persons extends PureComponent {
   //   return state;
   // }
 
+  // pure component does this for every prop
   // shouldComponentUpdate(nextProps, nextState) {
   //   console.log('[Persons.js] shouldComponentUpdate');
   //   if (
